@@ -20,20 +20,6 @@ The dataset used in this project consists of MRI images annotated with tumor loc
 ## Model Architecture
 The model used in this project is based on YOLOv5, which is a state-of-the-art object detection model. YOLOv5 offers a balance between detection accuracy and computational efficiency, making it suitable for real-time applications.
 
-## Installation
-To set up the environment and run the project, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/brain-tumor-detection.git
-   cd brain-tumor-detection
-   ```
-
-2. **Install the required dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 3. **Set up YOLOv5 in Google Colab:**
    Follow the instructions in the notebook to set up YOLOv5 for use in Google Colab.
 
